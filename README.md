@@ -1,9 +1,6 @@
 # FrameFit – Bildrahmen & Zuschnitt mit Maskierung
 
-![Python](https://img.shields.io/badge/Python-3.13-blue)
-![PyQt6](https://img.shields.io/badge/PyQt6-6.x-green)
-![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
+![Python](https://img.shields.io/badge/Python-3.13-blue) ![PyQt6](https://img.shields.io/badge/PyQt6-6.x-green) ![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-green)
 
 **FrameFit** ist ein einfach zu bedienendes Desktop-Tool auf Basis von **PyQt6**, mit dem Bilder in vorgegebene Rahmen eingepasst, verschoben, mit Hintergrundfarbe versehen und optional **kreisförmig maskiert** werden können – inklusive Vorschaufunktion, Drag-&-Drop-Unterstützung und Export in ein Zielverzeichnis.
 
@@ -115,10 +112,11 @@ python framefit.py
 
 > Das Hauptfenster öffnet sich, und du kannst sofort mit der Bearbeitung beginnen.
 
-
 ## Lizenz & Hinweise
 
 Dieses Projekt ist unter der [MIT-Lizenz](./LICENSE) veröffentlicht und wurde zu Demonstrations- und Lernzwecken im Bereich **lokaler Bildverarbeitung mit PyQt6** entwickelt. Inhalte und Code dürfen frei verwendet, modifiziert und verteilt werden.
+
+⚠️ Hinweis: Dieses Projekt verwendet PyQt6, das unter der **GNU GPL v3** lizenziert ist. Wenn du diesen Code nutzt oder weiterverbreitest, musst du die Bedingungen dieser Lizenz einhalten – es sei denn, du besitzt eine kommerzielle PyQt6-Lizenz.
 
 ## Kontakt / Support
 
